@@ -26,4 +26,4 @@ ikiye tam bölünen terimlerin toplamını bulun.
 Üç farklı değer yazdık çünkü fibonacci dizisi eski iki öğenin toplanıp
 yeni öğeye aktarılmasıyla gerçekleşiyordu. Bu yüzden bizde 3 farklı öğeye
 ihtiyaç duyduk.
-"""
+""" 
