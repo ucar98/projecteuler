@@ -6,6 +6,7 @@ for i in range(1, sayi):
 print(toplam)
 
 """
+#P1: Hedef sayıya kadar olan 3 ve 5'in katlarını toplamak.
 İlk iki satırda tanımlama yaptık.
 Hedefe kadar birer birer artın bir döngü içerisinde
 Artan sayı 3 veya 5'e bölünürse onu toplam değişkeniyle
